@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/dontasktoask.com>
 # [dontasktoask.com](https://dontasktoask.com)
 An informational website about why you should ask questions directly instead of
 asking to ask.
